@@ -1,15 +1,14 @@
 # Nombre de la Receta
 ## Ingredientes
-- 500 g de queso crema
-- 200 ml de nata para montar
+- 200 g de chocolate negro
+- 150 g de mantequilla
 - 150 g de azúcar
-- 3 huevos
-- 1 cucharada de harina (opcional)
-- 150 g de galletas tipo María
-- 80 g de mantequilla
+- 4 huevos
+- 100 g de harina
+- 1 sobre de levadura
 ## Preparación
 1. Derrite el chocolate junto con la mantequilla.
-2. Bate los huevos con el azúcar. 
+2. Bate los huevos con el azúcar.
 3. Mezcla todo e incorpora la harina y la levadura.
 4. Vierte en un molde y hornea a 180 ºC durante 35–40 minutos.
 5. Deja enfriar antes de desmoldar.
